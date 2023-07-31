@@ -1,2 +1,2 @@
-# tif-png-dialate
-Converts the kidney histological images to PNG and dialates them
+# tif-png-dilate
+Converts the kidney histological images to PNG and dilates them
